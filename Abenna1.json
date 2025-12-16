@@ -2,7 +2,6 @@
   "type": "micro",
   "wake_word": "Abenna1",
   "author": "messagetest24-hub",
-  "website": "https://github.com/messagetest24-hub/nana/blob/main/Abenna1.tflite"
   "model": "Abenna1.tflite",
   "trained_languages": ["en"],
   "version": 2,
@@ -15,3 +14,4 @@
   }
 
 }
+
